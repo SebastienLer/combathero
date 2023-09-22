@@ -1,0 +1,27 @@
+.result img{
+height: 40vh;
+width: 40vh;
+}
+
+body{
+    font-family: 'Metroid Prime: Hunters TTF', sans-serif;
+    font-size: small;
+    color: white;
+    background-image: url(./../img/samusvsridley.jpg);
+    background-position: center center;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.col-3{
+    border: white solid 2px;
+    background-color: black;
+    opacity: 0.6;
+    border-radius: 20px;
+}
+.win{
+    color:yellow
+}
+.defeat{
+    color:blue
+}
